@@ -1,6 +1,8 @@
 
 # Rapport
 
+En app för att klicka på en knapp som ändrar vilken form som visas.
+
 TextView som visar texten "Test the button"
 
 ```xml
@@ -64,8 +66,8 @@ public void toggle(View view) {
 ```
 
 
-![](CircleScreenshot)
-![](TriangleScreenshot)
+![](CircleScreenshot.png)
+![](TriangleScreenshot.png)
 
 
 Läs gärna:
