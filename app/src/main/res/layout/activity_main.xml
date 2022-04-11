@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:layout_marginTop="10dp"
         android:textAlignment="center"
         android:layout_gravity="center_horizontal"
         android:layout_width="240dp"
